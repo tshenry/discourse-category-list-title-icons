@@ -1,0 +1,6 @@
+category_title_images:
+  type: list
+  list_type: simple
+  default: ""
+  description: 
+    en: 'Format should be <code>CATEGORY_ID,IMAGE_URL</code> with no spaces'
