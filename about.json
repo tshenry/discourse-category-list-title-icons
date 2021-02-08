@@ -1,6 +1,6 @@
 {
   "name": "Discourse Category List Title Icons",
-  "about_url": null,
-  "license_url": null,
+  "about_url": "https://github.com/tshenry/discourse-category-list-title-icons/blob/main/README.md",
+  "license_url": "https://github.com/tshenry/discourse-category-list-title-icons/blob/main/LICENSE",
   "component": true
 }

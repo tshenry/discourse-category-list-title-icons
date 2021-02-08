@@ -4,3 +4,8 @@ category_title_images:
   default: ""
   description: 
     en: 'Format should be <code>CATEGORY_ID,IMAGE_URL</code> with no spaces'
+category_title_image_size:
+  type: string
+  default: '1.5em'
+  description:
+    en: 'Adjust the size of the image icons. When using the default "em" unit, the size of the image will increase by this value times the current font size.'
